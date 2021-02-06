@@ -8,7 +8,7 @@
 
 - You redirect to 2 pages in the url i.e `Home("/")` & `AddBlog("/create")`.
 
-- Type any other url & you will be redirected to the `**Error**` page.
+- Type any other url & you will be redirected to the `Error` page.
 
 ## How to Run this Project on your Local Machine
 
